@@ -19,31 +19,45 @@ class QwenClient:
         )
 
     def analyze(self, image_path: str, prompt: str) -> str:
-    image = Image.open(image_path).convert("RGB")
+        image = Image.open(image_path).convert("RGB")
 
-    messages = [
-        {
-            "role": "user",
-            "content": [
-                {"type": "image"},
-                {"type": "text", "text": prompt},
-            ],
-        }
-    ]
+        messages = [
+            {
+                "role": "user",
+                "content": [
+                    {"type": "image"},
+                    {"type": "text", "text": prompt},
+                ],
+            }
+        ]
 
-    inputs = self.processor(
-        messages,
-        images=image,
-        return_tensors="pt",
-    ).to(self.model.device)
+        inputs = self.processor(
+            messages,
+            images=image,
+            return_tensors="pt",
+        ).to(self.model.device)
 
-    with torch.no_grad():
-        output_ids = self.model.generate(
-            **inputs,
-            max_new_tokens=512,
-            temperature=0.2,
+        with torch.no_grad():
+            output_ids = self.model.generate(
+                **inputs,
+                max_new_tokens=512,
+                temperature=0.2,
+            )
+
+        return self.processor.decode(
+            output_ids[0], skip_special_tokens=True
         )
 
-    return self.processor.decode(
-        output_ids[0], skip_special_tokens=True
-    )
+    _qwen_instance = None
+
+
+    def get_qwen():
+        """
+        Lazy-loaded singleton for QwenClient.
+        """
+        global _qwen_instance
+        if _qwen_instance is None:
+            _qwen_instance = QwenClient()
+        return _qwen_instance
+
+    

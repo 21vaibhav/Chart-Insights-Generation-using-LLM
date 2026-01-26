@@ -88,3 +88,15 @@ class SQLCoderClient:
             conn.close()
 
         return result
+    
+    
+    _sqlcoder_instance = None
+    def get_sqlcoder():
+        """
+        Lazy-loaded singleton for SQLCoderClient.
+        """
+        global _sqlcoder_instance
+        if _sqlcoder_instance is None:
+            _sqlcoder_instance = SQLCoderClient()
+        return _sqlcoder_instance
+
