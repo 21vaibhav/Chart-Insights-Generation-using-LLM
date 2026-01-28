@@ -1,0 +1,887 @@
+[
+  {
+    "timestamp": "2026-01-24T17:06:31.621615",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "tell me the max house value in the dataset"
+  },
+  {
+    "timestamp": "2026-01-24T17:07:34.238822",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "what is the min price of the house "
+  },
+  {
+    "timestamp": "2026-01-24T17:08:56.876556",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how much color contras present in the images \n"
+  },
+  {
+    "timestamp": "2026-01-24T17:15:45.497968",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "ok lets ho with the flow "
+  },
+  {
+    "timestamp": "2026-01-24T17:15:57.862720",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "hii"
+  },
+  {
+    "timestamp": "2026-01-24T17:16:21.354417",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "hello"
+  },
+  {
+    "timestamp": "2026-01-24T17:19:44.683209",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "calculate the power deviation in june month\n"
+  },
+  {
+    "timestamp": "2026-01-24T17:20:51.185198",
+    "mode": "Upload Chart Image / PDF",
+    "query": "welcome to cdac"
+  },
+  {
+    "timestamp": "2026-01-24T18:31:45.666208",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "hii"
+  },
+  {
+    "timestamp": "2026-01-24T18:37:13.233536",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "hii"
+  },
+  {
+    "timestamp": "2026-01-24T18:56:02.483699",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "ok"
+  },
+  {
+    "timestamp": "2026-01-24T19:15:31.356791",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "please give the answer\n\n\n"
+  },
+  {
+    "timestamp": "2026-01-24T19:16:56.853507",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "hello"
+  },
+  {
+    "timestamp": "2026-01-24T19:48:50.624783",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "dsadsdsa"
+  },
+  {
+    "timestamp": "2026-01-24T19:48:52.811469",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "dsadsdsa"
+  },
+  {
+    "timestamp": "2026-01-24T19:55:20.587578",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "sfafas"
+  },
+  {
+    "timestamp": "2026-01-24T19:56:41.069097",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "efefeffe"
+  },
+  {
+    "timestamp": "2026-01-25T14:20:14.722341",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "hello by"
+  },
+  {
+    "timestamp": "2026-01-25T14:31:02.760503",
+    "mode": "Upload Chart Image / PDF",
+    "query": "image"
+  },
+  {
+    "timestamp": "2026-01-25T14:31:54.513031",
+    "mode": "Upload Chart Image / PDF",
+    "query": "heloo bycacacacas"
+  },
+  {
+    "timestamp": "2026-01-25T14:33:48.577833",
+    "mode": "Upload Chart Image / PDF",
+    "query": "egewgewgeg"
+  },
+  {
+    "timestamp": "2026-01-25T14:34:47.270518",
+    "mode": "Upload Chart Image / PDF",
+    "query": "assassafsafsaf"
+  },
+  {
+    "timestamp": "2026-01-25T14:37:26.688918",
+    "mode": "Upload Chart Image / PDF",
+    "query": "wqfwfwqfwfwq"
+  },
+  {
+    "timestamp": "2026-01-25T14:43:37.891076",
+    "mode": "Upload Chart Image / PDF",
+    "query": "wewdbb"
+  },
+  {
+    "timestamp": "2026-01-25T14:45:58.380974",
+    "mode": "Upload Chart Image / PDF",
+    "query": "casvasvsavs"
+  },
+  {
+    "timestamp": "2026-01-25T14:53:41.674953",
+    "mode": "Upload Chart Image / PDF",
+    "query": "asvavsasa"
+  },
+  {
+    "timestamp": "2026-01-25T14:54:16.186992",
+    "mode": "Upload Chart Image / PDF",
+    "query": "avvvvvdvv"
+  },
+  {
+    "timestamp": "2026-01-25T14:54:55.382360",
+    "mode": "Upload Chart Image / PDF",
+    "query": "vevgevdev"
+  },
+  {
+    "timestamp": "2026-01-26T12:23:12.552817",
+    "mode": "Upload Chart Image / PDF",
+    "query": "hii "
+  },
+  {
+    "timestamp": "2026-01-26T17:35:09.677155",
+    "mode": "Upload Chart Image / PDF",
+    "query": "scascsc"
+  },
+  {
+    "timestamp": "2026-01-26T22:08:51.611023",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is x and y axis."
+  },
+  {
+    "timestamp": "2026-01-26T22:23:32.123656",
+    "mode": "Upload Chart Image / PDF",
+    "query": "wegwegwegweg"
+  },
+  {
+    "timestamp": "2026-01-26T22:24:58.711646",
+    "mode": "Upload Chart Image / PDF",
+    "query": "wegwgw"
+  },
+  {
+    "timestamp": "2026-01-26T22:40:24.547304",
+    "mode": "Upload Chart Image / PDF",
+    "query": "tehththth"
+  },
+  {
+    "timestamp": "2026-01-26T22:42:01.637073",
+    "mode": "Upload Chart Image / PDF",
+    "query": "debdbsdbdsbd"
+  },
+  {
+    "timestamp": "2026-01-26T22:50:04.199140",
+    "mode": "Upload Chart Image / PDF",
+    "query": "ryjkykykyky"
+  },
+  {
+    "timestamp": "2026-01-26T22:52:10.946647",
+    "mode": "Upload Chart Image / PDF",
+    "query": "jtjtjttntn"
+  },
+  {
+    "timestamp": "2026-01-26T23:03:00.733656",
+    "mode": "Upload Chart Image / PDF",
+    "query": "vjhvkjvkh"
+  },
+  {
+    "timestamp": "2026-01-27T09:07:02.063615",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "egewgeg\n"
+  },
+  {
+    "timestamp": "2026-01-27T13:49:22.710891",
+    "mode": "Upload Chart Image / PDF",
+    "query": "Find x-axis and y-axis for above "
+  },
+  {
+    "timestamp": "2026-01-27T14:26:37.379278",
+    "mode": "Upload Chart Image / PDF",
+    "query": "generate xaxis and yaxis from the graph"
+  },
+  {
+    "timestamp": "2026-01-27T14:27:34.523377",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is in xaxis of the graph ?"
+  },
+  {
+    "timestamp": "2026-01-27T14:33:17.024902",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this"
+  },
+  {
+    "timestamp": "2026-01-27T14:40:04.071817",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is in xaxis in the graph ?"
+  },
+  {
+    "timestamp": "2026-01-27T15:30:36.567105",
+    "mode": "Upload Chart Image / PDF",
+    "query": "extract the x and y axis from the image"
+  },
+  {
+    "timestamp": "2026-01-27T15:35:36.369479",
+    "mode": "Upload Chart Image / PDF",
+    "query": "evevevev"
+  },
+  {
+    "timestamp": "2026-01-27T15:36:34.140688",
+    "mode": "Upload Chart Image / PDF",
+    "query": "extract x and y axis from the it"
+  },
+  {
+    "timestamp": "2026-01-27T15:41:48.456918",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is in xaxis of graph"
+  },
+  {
+    "timestamp": "2026-01-27T15:45:17.142290",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is the draft mean noon for maximum number of points ?"
+  },
+  {
+    "timestamp": "2026-01-27T15:46:34.199223",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is the \"draft mean noon\" for maximum number of points ?"
+  },
+  {
+    "timestamp": "2026-01-27T15:47:20.645414",
+    "mode": "Upload Chart Image / PDF",
+    "query": "extrac the x and y axis ffrom the graph\n"
+  },
+  {
+    "timestamp": "2026-01-27T15:47:56.351517",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has the maximum value \n"
+  },
+  {
+    "timestamp": "2026-01-27T15:50:18.025545",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has the maximum value in the graph ?\n"
+  },
+  {
+    "timestamp": "2026-01-27T15:51:14.123186",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is in xaxis of the graph?"
+  },
+  {
+    "timestamp": "2026-01-27T15:52:23.778813",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has  the maximum height?"
+  },
+  {
+    "timestamp": "2026-01-27T15:53:44.751529",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has  the maximum value in the bar?"
+  },
+  {
+    "timestamp": "2026-01-27T15:55:29.076148",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has the max value?"
+  },
+  {
+    "timestamp": "2026-01-27T15:57:04.557981",
+    "mode": "Upload Chart Image / PDF",
+    "query": "curves of which color are intersecting each other in the graph ?"
+  },
+  {
+    "timestamp": "2026-01-27T15:59:06.392510",
+    "mode": "Upload Chart Image / PDF",
+    "query": "curves of which color are intersecting each other in the graph ?"
+  },
+  {
+    "timestamp": "2026-01-27T16:00:01.053278",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which line has the hightest correlation btw x and y axis "
+  },
+  {
+    "timestamp": "2026-01-27T16:01:13.413189",
+    "mode": "Upload Chart Image / PDF",
+    "query": "identify the outliers in the data?"
+  },
+  {
+    "timestamp": "2026-01-27T16:03:22.903027",
+    "mode": "Upload Chart Image / PDF",
+    "query": "the curves should not be intersection. Which number curves are intersecting in the graph ?"
+  },
+  {
+    "timestamp": "2026-01-27T16:04:10.613827",
+    "mode": "Upload Chart Image / PDF",
+    "query": "the curves should not be intersection. Which number representing the curves are intersecting in the graph ?"
+  },
+  {
+    "timestamp": "2026-01-27T16:04:57.766983",
+    "mode": "Upload Chart Image / PDF",
+    "query": "show the clustered area in the graph?"
+  },
+  {
+    "timestamp": "2026-01-27T16:08:12.198255",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how to learn python"
+  },
+  {
+    "timestamp": "2026-01-27T18:38:35.821051",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T18:52:24.076557",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display the max power from the data "
+  },
+  {
+    "timestamp": "2026-01-27T18:55:37.361848",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power "
+  },
+  {
+    "timestamp": "2026-01-27T18:57:34.264275",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T19:01:19.744552",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T19:09:35.654218",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T19:11:24.237231",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T19:12:32.587680",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max  of power"
+  },
+  {
+    "timestamp": "2026-01-27T19:15:24.867206",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select top 5 row after sorting by power "
+  },
+  {
+    "timestamp": "2026-01-27T19:19:19.591770",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select top 5 row after sorting by power "
+  },
+  {
+    "timestamp": "2026-01-27T19:22:50.202131",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T19:23:41.661600",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "ffbebe"
+  },
+  {
+    "timestamp": "2026-01-27T19:24:46.370541",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power daviation"
+  },
+  {
+    "timestamp": "2026-01-27T20:02:16.049322",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power deviation"
+  },
+  {
+    "timestamp": "2026-01-27T20:03:12.503272",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power from the data"
+  },
+  {
+    "timestamp": "2026-01-27T20:03:36.077794",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select the max of power "
+  },
+  {
+    "timestamp": "2026-01-27T20:04:26.807097",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display all the rows"
+  },
+  {
+    "timestamp": "2026-01-27T20:04:50.233864",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display all the rows"
+  },
+  {
+    "timestamp": "2026-01-27T20:05:05.625624",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display all the rows"
+  },
+  {
+    "timestamp": "2026-01-27T20:05:48.930089",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "give info about  the timestamp_power"
+  },
+  {
+    "timestamp": "2026-01-27T20:06:21.420659",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display all the records from the table \n"
+  },
+  {
+    "timestamp": "2026-01-27T20:07:21.782680",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select all rows from it "
+  },
+  {
+    "timestamp": "2026-01-27T20:08:01.547690",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select all rows from it "
+  },
+  {
+    "timestamp": "2026-01-27T20:10:08.336822",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "seeelct all the rows from it"
+  },
+  {
+    "timestamp": "2026-01-27T20:11:14.856259",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "seeelct all the rows from it"
+  },
+  {
+    "timestamp": "2026-01-27T20:12:23.323069",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "seeelct all the rows from it"
+  },
+  {
+    "timestamp": "2026-01-27T20:29:48.142123",
+    "mode": "Upload Chart Image / PDF",
+    "query": "tell me what you see in the image\n"
+  },
+  {
+    "timestamp": "2026-01-27T20:30:52.479403",
+    "mode": "Upload Chart Image / PDF",
+    "query": "tell me what you see in the image\n"
+  },
+  {
+    "timestamp": "2026-01-27T20:31:35.408617",
+    "mode": "Upload Chart Image / PDF",
+    "query": "tell me what you see in the image\n"
+  },
+  {
+    "timestamp": "2026-01-27T20:47:52.379274",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what you see in the image"
+  },
+  {
+    "timestamp": "2026-01-27T20:48:36.887510",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has the maximum height"
+  },
+  {
+    "timestamp": "2026-01-27T20:49:07.255911",
+    "mode": "Upload Chart Image / PDF",
+    "query": "which bar has the maximum height and what you understand from this "
+  },
+  {
+    "timestamp": "2026-01-27T20:58:52.245717",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what you see in the graph"
+  },
+  {
+    "timestamp": "2026-01-27T21:08:45.962250",
+    "mode": "Upload Chart Image / PDF",
+    "query": "lets see waht you got"
+  },
+  {
+    "timestamp": "2026-01-27T21:09:21.302215",
+    "mode": "Upload Chart Image / PDF",
+    "query": "explain what you see in the data"
+  },
+  {
+    "timestamp": "2026-01-27T21:28:45.258441",
+    "mode": "Upload Chart Image / PDF",
+    "query": "explain me chart "
+  },
+  {
+    "timestamp": "2026-01-27T21:29:37.105719",
+    "mode": "Upload Chart Image / PDF",
+    "query": "this looks like a wall painted with colours\n"
+  },
+  {
+    "timestamp": "2026-01-27T21:29:59.736600",
+    "mode": "Upload Chart Image / PDF",
+    "query": "this looks like a wall painted with colours\n"
+  },
+  {
+    "timestamp": "2026-01-27T21:30:41.246330",
+    "mode": "Upload Chart Image / PDF",
+    "query": "this looks like a color painted on the wall"
+  },
+  {
+    "timestamp": "2026-01-27T21:32:21.311237",
+    "mode": "Upload Chart Image / PDF",
+    "query": "this looks like color on the wall"
+  },
+  {
+    "timestamp": "2026-01-27T21:51:47.453635",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "seelct max of power"
+  },
+  {
+    "timestamp": "2026-01-27T22:00:58.026399",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "seelct max of power"
+  },
+  {
+    "timestamp": "2026-01-27T22:02:03.071569",
+    "mode": "Upload Chart Image / PDF",
+    "query": "waht you see in this ?"
+  },
+  {
+    "timestamp": "2026-01-27T22:50:02.080861",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select max of power"
+  },
+  {
+    "timestamp": "2026-01-27T22:51:29.998879",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this graph?"
+  },
+  {
+    "timestamp": "2026-01-27T22:51:41.549993",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this graph?"
+  },
+  {
+    "timestamp": "2026-01-27T22:52:00.291905",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this graph?"
+  },
+  {
+    "timestamp": "2026-01-27T22:53:09.595288",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this chart"
+  },
+  {
+    "timestamp": "2026-01-27T22:53:18.881292",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this chart"
+  },
+  {
+    "timestamp": "2026-01-27T22:57:51.061586",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe this graph"
+  },
+  {
+    "timestamp": "2026-01-27T23:00:20.951858",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the chart"
+  },
+  {
+    "timestamp": "2026-01-27T23:01:22.045667",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the chart in depth "
+  },
+  {
+    "timestamp": "2026-01-27T23:02:05.792683",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the chart in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:02:37.306759",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the image in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:03:16.886737",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the image in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:03:42.858964",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the chart in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:04:01.129891",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the picture in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:04:12.053039",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the picture in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:04:13.474475",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the picture in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:04:45.352158",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the img in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-27T23:04:51.273488",
+    "mode": "Upload Chart Image / PDF",
+    "query": "describe the img in depth and also explain what is draft"
+  },
+  {
+    "timestamp": "2026-01-28T13:42:15.462844",
+    "mode": "Upload Chart Image / PDF",
+    "query": "does this chart follow the basic relationship observed between power deviation and speed ?"
+  },
+  {
+    "timestamp": "2026-01-28T13:46:47.787347",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how many idle periods are for the vessel in this graph. Idle periods are defined as the period where no upward or downward spikes were observed for power deviation for a considerable period.  "
+  },
+  {
+    "timestamp": "2026-01-28T13:47:32.491224",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how many idle periods are for the vessel in this graph. Idle periods are defined as the period where no upward or downward spikes were observed for power deviation for a considerable period. Also give the time stamps for the periods.   "
+  },
+  {
+    "timestamp": "2026-01-28T13:47:58.167597",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how many idle periods are for the vessel in this graph. Idle periods are defined as the period where no upward or downward spikes were observed for power deviation for a considerable period. Also give the date time stamps for the idle periods. "
+  },
+  {
+    "timestamp": "2026-01-28T13:49:33.302236",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how many idle periods are for the vessel in this graph. Idle periods are defined as the period where no upward or downward spikes were observed for power deviation for a considerable period. Also give the date time stamps for the idle periods. give me a concise answer."
+  },
+  {
+    "timestamp": "2026-01-28T13:50:22.030548",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how many idle periods are for the vessel in this graph. Idle periods are defined as the period where no upward or downward spikes were observed for power deviation for a considerable period. Also give the date time stamps for the idle periods. give me a short answer for this. "
+  },
+  {
+    "timestamp": "2026-01-28T13:54:08.873557",
+    "mode": "Upload Chart Image / PDF",
+    "query": "does this graph follow correct relationship between xaxis and yaxis variables ?"
+  },
+  {
+    "timestamp": "2026-01-28T13:54:37.951987",
+    "mode": "Upload Chart Image / PDF",
+    "query": "does this graph follow correct relationship between the 2 variables ?"
+  },
+  {
+    "timestamp": "2026-01-28T13:55:45.436275",
+    "mode": "Upload Chart Image / PDF",
+    "query": "does this graph follow correct relationship between the 2 variables ? Also explain what is the relationship with the maritime domain ?\n"
+  },
+  {
+    "timestamp": "2026-01-28T13:58:31.565974",
+    "mode": "Upload Chart Image / PDF",
+    "query": "can you give the mathematical relationship between the 2 variables in the graph ?"
+  },
+  {
+    "timestamp": "2026-01-28T14:02:44.554426",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "does the realtionship between the variables in table, show a consistent relationship over time? If it doesnt, flag the sudden unexpected pattern. "
+  },
+  {
+    "timestamp": "2026-01-28T14:03:38.494813",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "does the realtionship between the variables in table, show a consistent relationship over time? "
+  },
+  {
+    "timestamp": "2026-01-28T14:07:32.294196",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "what are the unique drafts, not present in first 6 months, and appeared later?"
+  },
+  {
+    "timestamp": "2026-01-28T14:09:50.985051",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "what is the average of parameter RPM ?"
+  },
+  {
+    "timestamp": "2026-01-28T14:11:20.424358",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display top5 rows after sorting by power in decreasing order ?"
+  },
+  {
+    "timestamp": "2026-01-28T14:12:38.063412",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display top5 rows after sorting by power in decreasing order ? What can you analyze from the result ?"
+  },
+  {
+    "timestamp": "2026-01-28T14:13:34.334309",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display top5 rows after sorting by power in decreasing order ? "
+  },
+  {
+    "timestamp": "2026-01-28T14:42:36.461365",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "describe the dataset"
+  },
+  {
+    "timestamp": "2026-01-28T14:42:52.184825",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "describe the telemetry"
+  },
+  {
+    "timestamp": "2026-01-28T14:47:28.129226",
+    "mode": "Upload Chart Image / PDF",
+    "query": " mvwjkengelmvnzdsv"
+  },
+  {
+    "timestamp": "2026-01-28T14:57:37.295775",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "sdmvbkjdsf"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:11.750847",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "Give the max power"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:42.336183",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "efwbfjkbefr"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:47.111959",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "efwbfjkbefr"
+  },
+  {
+    "timestamp": "2026-01-28T14:58:54.346854",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "rfver"
+  },
+  {
+    "timestamp": "2026-01-28T14:59:12.190141",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "vwervg4w"
+  },
+  {
+    "timestamp": "2026-01-28T15:01:31.185050",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "jhvjhv"
+  },
+  {
+    "timestamp": "2026-01-28T15:02:00.502814",
+    "mode": "Upload Chart Image / PDF",
+    "query": "hrth"
+  },
+  {
+    "timestamp": "2026-01-28T15:04:01.432038",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "uktyuk"
+  },
+  {
+    "timestamp": "2026-01-28T15:34:00.924368",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "segrzaef"
+  },
+  {
+    "timestamp": "2026-01-28T16:19:00.778507",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display top five rows from the data"
+  },
+  {
+    "timestamp": "2026-01-28T16:20:50.806504",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display top 5 rows from the data "
+  },
+  {
+    "timestamp": "2026-01-28T16:21:36.518333",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display distintct of power "
+  },
+  {
+    "timestamp": "2026-01-28T16:22:00.193539",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "display distinct of power "
+  },
+  {
+    "timestamp": "2026-01-28T16:28:51.783686",
+    "mode": "Upload Chart Image / PDF",
+    "query": "Describe the chart"
+  },
+  {
+    "timestamp": "2026-01-28T16:29:38.926957",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "vjhvh"
+  },
+  {
+    "timestamp": "2026-01-28T16:30:24.509827",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "Describe telemetry dataset"
+  },
+  {
+    "timestamp": "2026-01-28T16:30:46.482389",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select the max of power"
+  },
+  {
+    "timestamp": "2026-01-28T16:31:17.532210",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "select the distinct  of power"
+  },
+  {
+    "timestamp": "2026-01-28T16:33:43.067450",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "describe relation between power and speed"
+  },
+  {
+    "timestamp": "2026-01-28T17:35:54.202566",
+    "mode": "Upload Chart Image / PDF",
+    "query": "waht you see in the graph"
+  },
+  {
+    "timestamp": "2026-01-28T17:36:48.454723",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "find the distinct of the power ,draft and rpm?"
+  },
+  {
+    "timestamp": "2026-01-28T17:37:52.473535",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "what is the max power "
+  },
+  {
+    "timestamp": "2026-01-28T17:38:56.128376",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "what is the max power deviation from timestamp data "
+  },
+  {
+    "timestamp": "2026-01-28T17:39:59.442126",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "what is the max power deviation from timestamp data and how it is releated with the maritime "
+  },
+  {
+    "timestamp": "2026-01-28T17:40:54.866730",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "how to learn python "
+  },
+  {
+    "timestamp": "2026-01-28T17:47:05.213773",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "how to learn python "
+  },
+  {
+    "timestamp": "2026-01-28T17:48:53.509570",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "how to learn python "
+  },
+  {
+    "timestamp": "2026-01-28T17:49:32.123706",
+    "mode": "Upload Raw Data (CSV/Excel)",
+    "query": "how to start youtube channel"
+  },
+  {
+    "timestamp": "2026-01-28T17:50:38.258102",
+    "mode": "Upload Chart Image / PDF",
+    "query": "how to open youtube channel"
+  },
+  {
+    "timestamp": "2026-01-28T17:50:56.540130",
+    "mode": "Upload Chart Image / PDF",
+    "query": "what is maritime explain "
+  }
+]
